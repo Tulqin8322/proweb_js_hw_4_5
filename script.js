@@ -26,9 +26,9 @@ for (let i = 0; i < misolSoni; i++) {
   let b = Math.round((Math.random()*(10-1))+1);
   let ishora = Math.round((Math.random() * (4 - 1)) + 1);
 
-  console.log("a="+a);
-  console.log("b="+b);
-  console.log("ishora="+ishora);
+//   console.log("a="+a);
+//   console.log("b="+b);
+//   console.log("ishora="+ishora);
 
   let ishoraMatni;
   switch (ishora) {
